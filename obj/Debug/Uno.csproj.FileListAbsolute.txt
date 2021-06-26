@@ -1,0 +1,7 @@
+E:\Summative\Uno\bin\Debug\Uno.exe.config
+E:\Summative\Uno\bin\Debug\Uno.exe
+E:\Summative\Uno\bin\Debug\Uno.pdb
+E:\Summative\Uno\obj\Debug\Uno.csproj.AssemblyReference.cache
+E:\Summative\Uno\obj\Debug\Uno.csproj.CoreCompileInputs.cache
+E:\Summative\Uno\obj\Debug\Uno.exe
+E:\Summative\Uno\obj\Debug\Uno.pdb

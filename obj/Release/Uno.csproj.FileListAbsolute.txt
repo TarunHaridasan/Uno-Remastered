@@ -1,0 +1,6 @@
+E:\Summative\Uno\bin\Release\Uno.exe.config
+E:\Summative\Uno\bin\Release\Uno.exe
+E:\Summative\Uno\bin\Release\Uno.pdb
+E:\Summative\Uno\obj\Release\Uno.csproj.CoreCompileInputs.cache
+E:\Summative\Uno\obj\Release\Uno.exe
+E:\Summative\Uno\obj\Release\Uno.pdb
